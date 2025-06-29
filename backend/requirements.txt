@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-multipart
+PyPDF2
+langchain
+langchain_community
+langchain-google-genai
+langchain-groq
+google-generativeai
+faiss-cpu
+python-dotenv
+fpdf2
+Pillow
+pydantic

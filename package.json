@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@mui/icons-material": "^7.1.2",
+    "@mui/material": "^7.1.2",
+    "axios": "^1.10.0",
+    "file-saver": "^2.0.5",
+    "react-markdown": "^10.1.0"
+  }
+}
